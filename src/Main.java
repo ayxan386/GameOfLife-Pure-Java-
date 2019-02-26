@@ -36,7 +36,7 @@ public class Main {
     public static int rows,cols;
     public void init()
     {
-        w = 10;
+        w = 8;
         rows = height / w;
         cols = width / w;
         Random r = new Random();
